@@ -1,0 +1,17 @@
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\bin\Debug\net9.0-windows\Exercise 1.exe
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\bin\Debug\net9.0-windows\Exercise 1.deps.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\bin\Debug\net9.0-windows\Exercise 1.runtimeconfig.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\bin\Debug\net9.0-windows\Exercise 1.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\bin\Debug\net9.0-windows\Exercise 1.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise_1.Form1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.csproj.GenerateResource.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.AssemblyInfoInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.AssemblyInfo.cs
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.csproj.CoreCompileInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\refint\Exercise 1.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise 1.genruntimeconfig.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\ref\Exercise 1.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 1\obj\Debug\net9.0-windows\Exercise_1.nForm.resources
