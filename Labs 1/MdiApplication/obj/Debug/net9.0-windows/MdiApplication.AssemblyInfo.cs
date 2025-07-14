@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MdiApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e81820b94443eeac7cc76f1e974d437b85782f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f30a14e891063d21164eef6a3111e155a86f3fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MdiApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MdiApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

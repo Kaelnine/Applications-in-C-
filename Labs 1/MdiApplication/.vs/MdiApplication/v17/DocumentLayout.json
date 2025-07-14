@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\",
+  "WorkspaceRootPath": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 1\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 1\\mdiapplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D52B540-4F70-4FEF-98C6-6ADCA67F252A}|MdiApplication.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
               "RelativeDocumentMoniker": "ParentForm.cs",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:58:03.069Z",
+              "WhenOpened": "2025-07-14T12:51:35.092Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ChildForm.cs",
+              "RelativeToolTip": "ChildForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvx4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:59:34.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:43:23.278Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ParentForm.cs",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
               "RelativeDocumentMoniker": "ParentForm.cs",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.cs",
               "RelativeToolTip": "ParentForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T18:52:45.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ParentForm.Designer.cs",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.Designer.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.Designer.cs",
               "RelativeDocumentMoniker": "ParentForm.Designer.cs",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.Designer.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 1\\MdiApplication\\ParentForm.Designer.cs",
               "RelativeToolTip": "ParentForm.Designer.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAqwE8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAADgv30AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T18:52:00.605Z",
               "EditorCaption": ""

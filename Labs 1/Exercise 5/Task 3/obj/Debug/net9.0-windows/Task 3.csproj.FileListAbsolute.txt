@@ -1,0 +1,17 @@
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\bin\Debug\net9.0-windows\Task 3.exe
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\bin\Debug\net9.0-windows\Task 3.deps.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\bin\Debug\net9.0-windows\Task 3.runtimeconfig.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\bin\Debug\net9.0-windows\Task 3.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\bin\Debug\net9.0-windows\Task 3.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task_3.Form1.resources
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.csproj.GenerateResource.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.AssemblyInfoInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.AssemblyInfo.cs
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.csproj.CoreCompileInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.sourcelink.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\refint\Task 3.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\Task 3.genruntimeconfig.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 1\Exercise 5\Task 3\obj\Debug\net9.0-windows\ref\Task 3.dll

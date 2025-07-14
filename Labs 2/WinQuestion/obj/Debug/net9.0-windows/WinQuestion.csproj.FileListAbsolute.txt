@@ -1,0 +1,17 @@
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\bin\Debug\net9.0-windows\WinQuestion.exe
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\bin\Debug\net9.0-windows\WinQuestion.deps.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\bin\Debug\net9.0-windows\WinQuestion.runtimeconfig.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\bin\Debug\net9.0-windows\WinQuestion.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\bin\Debug\net9.0-windows\WinQuestion.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.Form1.resources
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.csproj.GenerateResource.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.AssemblyInfoInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.AssemblyInfo.cs
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.sourcelink.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\refint\WinQuestion.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\WinQuestion.genruntimeconfig.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\WinQuestion\obj\Debug\net9.0-windows\ref\WinQuestion.dll
