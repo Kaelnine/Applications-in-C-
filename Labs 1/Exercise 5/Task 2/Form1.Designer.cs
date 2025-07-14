@@ -50,6 +50,7 @@
             Controls.Add(button1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Первая форма";
             Load += Form1_Load;
             ResumeLayout(false);
