@@ -1,0 +1,18 @@
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\bin\Debug\net9.0-windows\Exercise 2.exe
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\bin\Debug\net9.0-windows\Exercise 2.deps.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\bin\Debug\net9.0-windows\Exercise 2.runtimeconfig.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\bin\Debug\net9.0-windows\Exercise 2.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\bin\Debug\net9.0-windows\Exercise 2.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise_2.Form1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.csproj.GenerateResource.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.AssemblyInfoInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.AssemblyInfo.cs
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.csproj.CoreCompileInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.sourcelink.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\refint\Exercise 2.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise 2.genruntimeconfig.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\ref\Exercise 2.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 1\Exercise 2\obj\Debug\net9.0-windows\Exercise_2.nForm.resources
