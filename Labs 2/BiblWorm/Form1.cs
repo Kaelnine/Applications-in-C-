@@ -1,6 +1,7 @@
 using System.Text;
 using MyClass;
 using System.ComponentModel;
+using BiblWorm.Bibl;
 namespace BiblWorm
 {
     public partial class Form1 : Form
@@ -74,7 +75,52 @@ namespace BiblWorm
             set { numericUpDown4.Value = value; }
         }
 
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public string Genre // Жанр
+        {
+            get { return textBox4.Text; }
+            set { textBox4.Text = value; }
+        }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public string TitleJ // Жанр
+        {
+            get { return textBox5.Text; }
+            set { textBox5.Text = value; }
+        }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public string PublishHouseJ // Издательство
+        {
+            get { return textBox6.Text; }
+            set { textBox6.Text = value; }
+        }
+
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public int PageJ // Количество страниц
+        {
+            get { return (int)numericUpDown5.Value; }
+            set { numericUpDown5.Value = value; }
+        }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public int YearJ // Год издания
+        {
+            get { return (int)numericUpDown6.Value; }
+            set { numericUpDown6.Value = value; }
+        }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public int InvNumberJ // Инвентарный номер
+        {
+            get { return (int)numericUpDown7.Value; }
+            set { numericUpDown7.Value = value; }
+        }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        public bool ExistenceJ // Наличие
+        {
+            get { return checkBox4.Checked; }
+            set { checkBox4.Checked = value; }
+        }
+
         List<Item> its = new List<Item>();
+        List<Item> itsJ = new List<Item>();
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -92,14 +138,51 @@ namespace BiblWorm
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (SortInvNumber)
-                its.Sort();
-            StringBuilder sb = new StringBuilder();
-            foreach (Item item in its)
+            string tabName = tabControl1.SelectedTab.Name;
+            if (tabName == "tabPage1")
             {
-                sb.Append("\n" + item.ToString());
+                if (SortInvNumber)
+                    its.Sort();
+                StringBuilder sb = new StringBuilder();
+                foreach (Item item in its)
+                {
+                    sb.Append("\n" + item.ToString());
+                }
+                richTextBox1.Text = sb.ToString();
             }
-            richTextBox1.Text = sb.ToString();
+            else if (tabName == "tabPage2")
+            {
+                if (SortInvNumber)
+                    its.Sort();
+                StringBuilder sb = new StringBuilder();
+                foreach (Item item in itsJ)
+                {
+                    sb.Append("\n" + item.ToString());
+                }
+                richTextBox1.Text = sb.ToString();
+            }
+            //if (SortInvNumber)
+            //    its.Sort();
+            //StringBuilder sb = new StringBuilder();
+            //foreach (Item item in its)
+            //{
+            //    sb.Append("\n" + item.ToString());
+            //}
+            //richTextBox1.Text = sb.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Journal b = new Journal(Genre, TitleJ, PublishHouseJ,
+                        PageJ, YearJ, InvNumberJ, ExistenceJ);
+            if (ReturnTime)
+                b.ReturnSrok();
+            b.PriceBook(PeriodUse);
+            itsJ.Add(b);
+            Genre = TitleJ = PublishHouseJ = "";
+            PageJ = InvNumberJ = PeriodUse = 0;
+            YearJ = 2020;
+            ExistenceJ = ReturnTime = false;
         }
     }
 }

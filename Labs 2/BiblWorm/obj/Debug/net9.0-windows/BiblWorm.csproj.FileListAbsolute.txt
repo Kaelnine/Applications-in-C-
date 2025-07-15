@@ -15,3 +15,20 @@ D:\MyGit\Applications in C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-
 D:\MyGit\Applications in C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.pdb
 D:\MyGit\Applications in C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.genruntimeconfig.cache
 D:\MyGit\Applications in C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\ref\BiblWorm.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\bin\Debug\net9.0-windows\BiblWorm.exe
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\bin\Debug\net9.0-windows\BiblWorm.deps.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\bin\Debug\net9.0-windows\BiblWorm.runtimeconfig.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\bin\Debug\net9.0-windows\BiblWorm.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\bin\Debug\net9.0-windows\BiblWorm.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.Form1.resources
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.csproj.GenerateResource.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.AssemblyInfoInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.AssemblyInfo.cs
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.sourcelink.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\refint\BiblWorm.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\BiblWorm.genruntimeconfig.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 2\BiblWorm\obj\Debug\net9.0-windows\ref\BiblWorm.dll

@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\",
+  "WorkspaceRootPath": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 2\\biblworm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 2\\biblworm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 2\\biblworm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 2\\biblworm\\biblworm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 2\\biblworm\\bibl\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|solutionrelative:bibl\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 2\\biblworm\\biblworm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7B8BECED-F0F3-424B-8E39-97B9662D0011}|BiblWorm.csproj|solutionrelative:biblworm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,10 +35,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Bibl\\Journal.cs",
+              "RelativeDocumentMoniker": "Bibl\\Journal.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Bibl\\Journal.cs",
+              "RelativeToolTip": "Bibl\\Journal.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:19:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BiblWorm",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\BiblWorm.csproj",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\BiblWorm.csproj",
               "RelativeDocumentMoniker": "BiblWorm.csproj",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\BiblWorm.csproj",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\BiblWorm.csproj",
               "RelativeToolTip": "BiblWorm.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-14T20:07:47.047Z",
@@ -44,11 +61,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAowLgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T19:49:53.359Z",
               "EditorCaption": ""
@@ -57,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
+              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 2\\BiblWorm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T19:24:46.912Z",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiblWorm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98207d1240e171a9e868b0d95c0c4921d77ba1ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2300efa9b6453c6f0e80bc122141e989a98d2c6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiblWorm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiblWorm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
