@@ -34,7 +34,11 @@ namespace Exercise_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Close();
+            if (nclose) return;
+            if (checkBoxClose.Checked) Close();
+            //e.Cancel = true;
+            Hide();
+            //Close();
         }
     }
 }
