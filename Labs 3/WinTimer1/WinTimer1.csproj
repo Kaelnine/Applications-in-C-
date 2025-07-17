@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="WinFormsControlLibraryTimer">
+      <HintPath>..\WinFormsControlLibraryTimer\bin\Debug\net9.0-windows\WinFormsControlLibraryTimer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

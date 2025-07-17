@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WinFormsControlLibraryTimer/1.0.0": {
+        "dependencies": {
+          "WinTimer1": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsControlLibraryTimer.dll": {}
+        }
+      },
+      "WinTimer1/1.0.0": {
+        "runtime": {
+          "WinTimer1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsControlLibraryTimer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinTimer1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

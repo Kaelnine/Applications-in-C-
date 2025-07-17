@@ -1,0 +1,17 @@
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.exe
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.deps.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.runtimeconfig.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.Form1.resources
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.csproj.GenerateResource.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.AssemblyInfoInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.AssemblyInfo.cs
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.csproj.CoreCompileInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.sourcelink.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\refint\WinButNum.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.genruntimeconfig.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\ref\WinButNum.dll
