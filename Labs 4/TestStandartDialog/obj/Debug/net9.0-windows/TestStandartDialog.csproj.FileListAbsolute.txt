@@ -1,0 +1,17 @@
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\bin\Debug\net9.0-windows\TestStandartDialog.exe
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\bin\Debug\net9.0-windows\TestStandartDialog.deps.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\bin\Debug\net9.0-windows\TestStandartDialog.runtimeconfig.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\bin\Debug\net9.0-windows\TestStandartDialog.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\bin\Debug\net9.0-windows\TestStandartDialog.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.Form1.resources
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.csproj.GenerateResource.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.AssemblyInfoInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.AssemblyInfo.cs
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.sourcelink.json
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\refint\TestStandartDialog.dll
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.pdb
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\TestStandartDialog.genruntimeconfig.cache
+D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\TestStandartDialog\obj\Debug\net9.0-windows\ref\TestStandartDialog.dll
