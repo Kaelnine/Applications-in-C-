@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\",
+  "WorkspaceRootPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 3\\wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 3\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|d:\\mygit\\applications in c#\\applications-in-c-\\labs 3\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|solutionrelative:usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|d:\\_\u0443\u0447\u0435\u0431\u0430\\_\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c#\\applications-in-c-\\labs 3\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DFDA5C0-9F61-485C-80F6-BA668314DFA9}|WinTimer2.csproj|solutionrelative:usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -25,29 +25,37 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserControlTimer2.cs",
-              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
+              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
               "RelativeDocumentMoniker": "UserControlTimer2.cs",
-              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
+              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
               "RelativeToolTip": "UserControlTimer2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAhwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T09:17:48.3Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
+              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs",
               "RelativeDocumentMoniker": "UserControlTimer2.cs",
-              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T09:17:35.811Z",
@@ -55,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\Form1.cs",
+              "DocumentMoniker": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\_\u0423\u0447\u0435\u0431\u0430\\_\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C#\\Applications-in-C-\\Labs 3\\WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T09:16:18.158Z",

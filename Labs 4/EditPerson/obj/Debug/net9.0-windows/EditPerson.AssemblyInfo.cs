@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditPerson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c291e8dc4881aff03cd8590314ad3401f1ac14c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33265ce9e6c829195e1f814223992118b5b1c02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditPerson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditPerson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

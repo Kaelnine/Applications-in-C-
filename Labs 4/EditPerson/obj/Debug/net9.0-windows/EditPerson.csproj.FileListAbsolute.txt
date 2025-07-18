@@ -16,3 +16,21 @@ D:\_Учеба\_Домашние задания\Приложения на C#\App
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.pdb
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.genruntimeconfig.cache
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\ref\EditPerson.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\bin\Debug\net9.0-windows\EditPerson.exe
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\bin\Debug\net9.0-windows\EditPerson.deps.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\bin\Debug\net9.0-windows\EditPerson.runtimeconfig.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\bin\Debug\net9.0-windows\EditPerson.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\bin\Debug\net9.0-windows\EditPerson.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.EditPersonForm.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.Form1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.csproj.GenerateResource.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.AssemblyInfoInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.AssemblyInfo.cs
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.sourcelink.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\refint\EditPerson.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\EditPerson.genruntimeconfig.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 4\EditPerson\obj\Debug\net9.0-windows\ref\EditPerson.dll

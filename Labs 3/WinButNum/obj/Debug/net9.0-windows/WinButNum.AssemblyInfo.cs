@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinButNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db6625ecee9a04a3517d1337cc02bf61c01fee1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33265ce9e6c829195e1f814223992118b5b1c02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinButNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinButNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

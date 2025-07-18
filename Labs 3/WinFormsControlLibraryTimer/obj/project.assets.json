@@ -30,23 +30,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Илья\\.nuget\\packages\\": {},
+    "C:\\Users\\adamc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Учеба\\_Домашние задания\\Приложения на C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\WinFormsControlLibraryTimer.csproj",
+      "projectUniqueName": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\WinFormsControlLibraryTimer.csproj",
       "projectName": "WinFormsControlLibraryTimer",
-      "projectPath": "D:\\_Учеба\\_Домашние задания\\Приложения на C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\WinFormsControlLibraryTimer.csproj",
-      "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-      "outputPath": "D:\\_Учеба\\_Домашние задания\\Приложения на C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\obj\\",
+      "projectPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\WinFormsControlLibraryTimer.csproj",
+      "packagesPath": "C:\\Users\\adamc\\.nuget\\packages\\",
+      "outputPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinFormsControlLibraryTimer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adamc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -55,14 +55,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\_Учеба\\_Домашние задания\\Приложения на C#\\Applications-in-C-\\Labs 3\\WinTimer1\\WinTimer1.csproj": {
-              "projectPath": "D:\\_Учеба\\_Домашние задания\\Приложения на C#\\Applications-in-C-\\Labs 3\\WinTimer1\\WinTimer1.csproj"
+            "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer1\\WinTimer1.csproj": {
+              "projectPath": "D:\\MyGit\\Applications in C#\\Applications-in-C-\\Labs 3\\WinTimer1\\WinTimer1.csproj"
             }
           }
         }
@@ -77,7 +78,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -101,7 +102,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

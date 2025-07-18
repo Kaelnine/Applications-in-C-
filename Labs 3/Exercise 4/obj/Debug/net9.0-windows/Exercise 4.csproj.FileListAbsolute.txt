@@ -16,3 +16,21 @@ D:\_Учеба\_Домашние задания\Приложения на C#\App
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.pdb
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.genruntimeconfig.cache
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\ref\Exercise 4.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\bin\Debug\net9.0-windows\Exercise 4.exe
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\bin\Debug\net9.0-windows\Exercise 4.deps.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\bin\Debug\net9.0-windows\Exercise 4.runtimeconfig.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\bin\Debug\net9.0-windows\Exercise 4.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\bin\Debug\net9.0-windows\Exercise 4.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise_4.Form1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise_4.UserControl1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.csproj.GenerateResource.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.AssemblyInfoInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.AssemblyInfo.cs
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.csproj.CoreCompileInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.sourcelink.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\refint\Exercise 4.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\Exercise 4.genruntimeconfig.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\Exercise 4\obj\Debug\net9.0-windows\ref\Exercise 4.dll

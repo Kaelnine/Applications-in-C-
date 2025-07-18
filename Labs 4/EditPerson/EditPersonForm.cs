@@ -12,12 +12,24 @@ namespace EditPerson
 {
     public partial class EditPersonForm : Form
     {
+        Person p;
         public EditPersonForm()
         {
             InitializeComponent();
         }
 
-        Person p;
+
+        
+        public EditPersonForm(Person p)
+        {
+            InitializeComponent();
+            this.p = p;
+            this.FirstName = p.FirstName;
+            this.LastName = p.LastName;
+            this.Age = p.Age;
+        }
+
+
 
         [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public string FirstName
@@ -38,5 +50,12 @@ namespace EditPerson
             set { ageNumericUpDown.Value = value; }
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            p.FirstName = this.FirstName;
+            p.LastName = this.LastName;
+            p.Age = this.Age;
+            MessageBox.Show("Сотрудник: " + p.ToString());
+        }
     }
 }

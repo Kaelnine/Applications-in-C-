@@ -15,3 +15,20 @@ D:\_Учеба\_Домашние задания\Приложения на C#\App
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.pdb
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.genruntimeconfig.cache
 D:\_Учеба\_Домашние задания\Приложения на C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\ref\WinButNum.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.exe
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.deps.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.runtimeconfig.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\bin\Debug\net9.0-windows\WinButNum.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.Form1.resources
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.csproj.GenerateResource.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.AssemblyInfoInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.AssemblyInfo.cs
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.csproj.CoreCompileInputs.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.sourcelink.json
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\refint\WinButNum.dll
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.pdb
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\WinButNum.genruntimeconfig.cache
+D:\MyGit\Applications in C#\Applications-in-C-\Labs 3\WinButNum\obj\Debug\net9.0-windows\ref\WinButNum.dll
